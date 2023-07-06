@@ -18,4 +18,4 @@ https://monosnap.com/file/dLaw0RGgPHrfF1af2WXZv4ZGJ2yC3E
 # Видаляємо контакт та виводимо в консоль об'єкт видаленого контакту або null, якщо контакту з таким id не існує.
 node index.js --action="remove" --id qdggE76Jtbfd9eWJHrssH
 
-https://monosnap.com/file/jVVJ7YsVTeA4kXsunMILbAvm9GDz9h
+https://monosnap.com/file/5bXFZYu3OzBCcZ82HHbQkPs76UofFL
